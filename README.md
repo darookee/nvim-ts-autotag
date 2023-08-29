@@ -13,9 +13,11 @@ It works with:
 - markdown
 - php
 - rescript
+- smarty
 - svelte
 - tsx
 - typescript
+- twig
 - vue
 - xml
 
